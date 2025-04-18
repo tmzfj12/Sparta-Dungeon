@@ -1,0 +1,14 @@
+C:\Sparta\TXTRPg\TXTRPg\bin\Debug\net8.0\TXTRPg.exe
+C:\Sparta\TXTRPg\TXTRPg\bin\Debug\net8.0\TXTRPg.deps.json
+C:\Sparta\TXTRPg\TXTRPg\bin\Debug\net8.0\TXTRPg.runtimeconfig.json
+C:\Sparta\TXTRPg\TXTRPg\bin\Debug\net8.0\TXTRPg.dll
+C:\Sparta\TXTRPg\TXTRPg\bin\Debug\net8.0\TXTRPg.pdb
+C:\Sparta\TXTRPg\TXTRPg\obj\Debug\net8.0\TXTRPg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sparta\TXTRPg\TXTRPg\obj\Debug\net8.0\TXTRPg.AssemblyInfoInputs.cache
+C:\Sparta\TXTRPg\TXTRPg\obj\Debug\net8.0\TXTRPg.AssemblyInfo.cs
+C:\Sparta\TXTRPg\TXTRPg\obj\Debug\net8.0\TXTRPg.csproj.CoreCompileInputs.cache
+C:\Sparta\TXTRPg\TXTRPg\obj\Debug\net8.0\TXTRPg.dll
+C:\Sparta\TXTRPg\TXTRPg\obj\Debug\net8.0\refint\TXTRPg.dll
+C:\Sparta\TXTRPg\TXTRPg\obj\Debug\net8.0\TXTRPg.pdb
+C:\Sparta\TXTRPg\TXTRPg\obj\Debug\net8.0\TXTRPg.genruntimeconfig.cache
+C:\Sparta\TXTRPg\TXTRPg\obj\Debug\net8.0\ref\TXTRPg.dll
